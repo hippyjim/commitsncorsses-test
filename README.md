@@ -21,7 +21,7 @@ Commits N Crosses
 
  Both players should clone the repository:
 
-    git clone https://<username>@bitbucket.org/codeupsk/<reponame>.git
+    git clone git@github.com:<username>/<reponame>.git
     cd <reponame>
    
  Once in the repository directory, both players should set their config file to identify themselves to Git:
