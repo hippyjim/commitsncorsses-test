@@ -15,7 +15,7 @@ Commits N Crosses
 
  Player X: Jim
  
- Player O: Jim Also
+ Player O: Also Jim
 
 -------------
 
