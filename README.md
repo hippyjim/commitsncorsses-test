@@ -31,7 +31,7 @@ Commits N Crosses
 
  And to save typing the password with every push, both players should tell Git to remember it for a couple of hours:
 
-    git config credential.helper 'cache --timeout 7200'
+    git config credential.helper store
 
  Player 1 should create a new local branch, and check it out
 
